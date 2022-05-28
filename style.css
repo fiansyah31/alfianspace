@@ -160,4 +160,8 @@ footer a {
     .hero-content {
         width: 100%;
     }
+    footer h5 {
+        font-size: 14px;
+        line-height: 27px;
+    }
 }
